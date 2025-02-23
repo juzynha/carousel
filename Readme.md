@@ -1,0 +1,1 @@
+Essa é uma versão "pronta" com alguns problemas pequenos a serem resolvidos: A animação de mudança de slide tá estranha; a altura do carousel está fixa configurada com tamanho em pixels, o que não é adequado.
